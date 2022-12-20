@@ -8,8 +8,7 @@ I tried to achieve many functionalities so that you don't feel like it is actual
 I have used ReactJs and redux for the front-end part, Firebase for the user authentication and stripe for the payment handling part.
 I have attached the link to the project, please have a look and let me know how is it. Also if you come accross any bugs or you wanna suggest something then I would be really happy to know that 😊
 
-You can contact me here
-https://anubhavofficial.netlify.app/
+You can contact me here er.aryan.chavda@gmail.com
 
 ```diff
 + P.S. : The site is not mobile responsive 🙃
